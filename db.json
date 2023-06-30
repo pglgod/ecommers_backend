@@ -64,19 +64,11 @@
     "sellers":[
         {
             "name": "Naveen Soni",
-            "email": "naveen@gmail.com",
+            "id": "naveen@gmail.com",
             "phone":"+91 9876543210",
             "shopeName": "Golden Garage",
             "address": "New Delhi - India",
             "password": "2154823"
-        },{
-            "name": "Ankit Vishwakarma",
-            "email": "ankit@gmail.com",
-            "phone":"+91 8085643165",
-            "shopeName": "V-Tires",
-            "address": "Delhi NCR - India",
-            "password": "102030"
-
         }
     ]
 }
