@@ -53,12 +53,23 @@
         },
         {   "id": "bd6sv5",
             "categary": "Headlight",
-            "productName": "BMW Headlamps",
+            "productName": "BMW M5 Headlamps",
             "Shope": "Lights Store",
             "price": "42999.00",
             "productImg": "https://i.pinimg.com/564x/5c/dc/65/5cdc65a8ffdbe60376b3d7933a929a9a.jpg",
             "productDes": "Headlights For Bmw F30 LCI Xenons HID",
             "partNo": "4-78943-789-8"
+        }
+    ],
+    "sellers":[
+        {
+            "name": "Naveen Soni",
+            "email": "naveen@gmail.com",
+            "phone":"+91 9876543210",
+            "shopeName": "Golden Garage",
+            "address": "New Delhi - India",
+            "password": "2154823"
+
         }
     ]
 }
