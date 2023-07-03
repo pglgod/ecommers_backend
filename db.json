@@ -61,6 +61,7 @@
       "productDes": "Headlights For Bmw F30 LCI Xenons HID"
     }
   ],
+  
   "sellers": [
     {
       "name": "Naveen Soni",
@@ -69,6 +70,23 @@
       "shopeName": "Golden Garage",
       "address": "New Delhi - India",
       "password": "2154823"
+    }
+  ],
+
+  "buyers":[
+    {
+      "name":"Jony Walker0",
+      "id":"jony@gmail.com",
+      "phoneNumber":"+91 6896545210",
+      "shippingAddress": "Guahati - India",
+      "password": "345131"
+    },
+    {
+      "name": "Atul Kumar",
+      "id": "atul@gmail.com",
+      "phoneNumber": "+91 8864525463",
+      "shippingAddress": "Mumbra, Pune - Maharastra.",
+      "password": "atul@pass"
     }
   ]
 }
